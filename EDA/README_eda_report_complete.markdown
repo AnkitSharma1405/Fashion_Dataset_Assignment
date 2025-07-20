@@ -190,6 +190,5 @@ Most popular color for Girls: Pink (352 items)
 
 ## Conclusion
 
-```
+
 The EDA on the cleaned dataset with 44410 records reveals a skewed gender distribution, with Men (22146, 49.8%) and Women (16553, 37.3%) dominating (~87%), while Unisex (5.4%), Boys (5.8%), and Girls (3.9%) are underrepresented. Summer (21476, 48.3%) and Fall (14479, 32.6%) are key seasons, with Spring (1647, 3.7%) severely underrepresented. T-shirts (7069) and Shirts are top article types among 143, and Black (9728), Blue, and White dominate among 46 colors, with top 10 colors covering ~82% of the data. The high number of article types and colors, combined with imbalances, suggests grouping colors into families (e.g., Neutral, Blue) and using masterCategory/subCategory for hierarchical classification. Class weights, oversampling, and augmentation are recommended to address imbalances and improve model performance.
-```
