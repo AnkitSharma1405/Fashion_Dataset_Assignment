@@ -10,8 +10,8 @@ This repository contains a Streamlit web application that classifies fashion pro
 - Setup and Installation
 - Running the Streamlit App
 - Training Details
-- Troubleshooting
-- Contact
+- Demo video link
+
 
 ## Project Overview
 
@@ -65,7 +65,7 @@ Follow these steps to set up and run the app on your local system:
 1. **Clone the Repository**:
 
    ```bash
-   git clone link
+   git clone https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment.git
    ```
 
 2. **Set Up a Virtual Environment** (recommended):
@@ -123,5 +123,8 @@ To reproduce training:
 2. Attach the dataset to the notebook.
 3. Run cells 1-8 (Cell 8 contains the training loop).
 4. Download `best_model.pth` and checkpoints from `/kaggle/working/` (Kaggle Output tab).
+
+## Demo video
+[Click here](https://www.loom.com/share/851e91b71f644bfea3bd2af1d7df6de4?sid=525bf4d2-bfc2-40a5-a5ba-2eac63161c49) to watch demo video.
 
 ## Thank You
