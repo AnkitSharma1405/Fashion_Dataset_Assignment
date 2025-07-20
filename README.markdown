@@ -44,13 +44,13 @@ scikit-learn==1.5.1
 
 ```
 Streamlit_app/
-├── streamlit_app.py                    # Main Streamlit app script
+├── streamlit_app.py          # Main Streamlit app script
 ├── best_model.pth            # Trained model weights
 ├── requirements.txt          # Python dependencies
 ├── color_encoder.pkl
-├── session_encoder.pkl
-      gender_encoder.pkl
-      type_encoder.pkl
+├── session_encoder.pkl         
+├── gender_encoder.pkl
+├── type_encoder.pkl
 ```
 
 - `streamlit_app.py`: The Streamlit script that loads the model and handles image uploads/predictions.
