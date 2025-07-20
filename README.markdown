@@ -29,13 +29,12 @@ The model was trained using 5-fold cross-validation on the Fashion Product Image
 To run the app, install the following dependencies listed in `requirements.txt`:
 
 ```
-streamlit==1.38.0
-torch==2.4.0
-torchvision==0.19.0
+streamlit==1.36.0
+torch==2.3.1
+torchvision==0.18.1
+Pillow==10.4.0
 numpy==1.26.4
-pandas==2.2.2
-pillow==10.4.0
-scikit-learn==1.5.1
+scikit-learn==1.5.2
 ```
 
 **Note**: The app requires Python 3.8 or higher. PyTorch supports both CPU and GPU, but GPU (CUDA) is recommended for faster inference.
