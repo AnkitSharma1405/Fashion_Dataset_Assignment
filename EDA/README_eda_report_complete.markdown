@@ -114,7 +114,7 @@ Most popular color for Girls: Pink (352 items)
 
 **Description**: Bar chart showing the distribution of products by gender, with Men and Women as the largest categories.
 
-![Gender Distribution chart]([images/screenshot.png](https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment/blob/9848e46b5b93cf57bc0170e33c0c83f1e0502f54/EDA/Distribution_charts/gender_distribution.png))
+![Gender Distribution chart](https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment/blob/9848e46b5b93cf57bc0170e33c0c83f1e0502f54/EDA/Distribution_charts/gender_distribution.png)
 
 **Data Table**:
 
@@ -132,7 +132,7 @@ Most popular color for Girls: Pink (352 items)
 
 **Description**: Bar chart showing the top 10 base colours, covering \~82% of the dataset.
 
-![Color Distribution chart]([images/screenshot.png](https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment/blob/9848e46b5b93cf57bc0170e33c0c83f1e0502f54/EDA/Distribution_charts/color_distribution.png))
+![Color Distribution chart](https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment/blob/9848e46b5b93cf57bc0170e33c0c83f1e0502f54/EDA/Distribution_charts/color_distribution.png)
 
 **Data Table**:
 
@@ -155,7 +155,7 @@ Most popular color for Girls: Pink (352 items)
 
 **Description**: Pie chart showing the proportion of products by season.
 
-![session Distribution chart]([images/screenshot.png](https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment/blob/9848e46b5b93cf57bc0170e33c0c83f1e0502f54/EDA/Distribution_charts/session_distribution.png))
+![session Distribution chart](https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment/blob/9848e46b5b93cf57bc0170e33c0c83f1e0502f54/EDA/Distribution_charts/session_distribution.png)
 
 **Data Table**:
 
@@ -172,7 +172,7 @@ Most popular color for Girls: Pink (352 items)
 
 **Description**: Stacked bar chart showing the distribution of top 5 article types (Tshirts, Shirts, Tops, Kurtas, Watches) across seasons.
 
-![Type Distribution chart]([images/screenshot.png](https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment/blob/9848e46b5b93cf57bc0170e33c0c83f1e0502f54/EDA/Distribution_charts/type_distribution.png))
+![Type Distribution chart](https://github.com/AnkitSharma1405/Fashion_Dataset_Assignment/blob/9848e46b5b93cf57bc0170e33c0c83f1e0502f54/EDA/Distribution_charts/type_distribution.png)
 
 **Data Table**:
 
